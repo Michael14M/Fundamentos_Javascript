@@ -1,0 +1,17 @@
+.flex-container{
+    display: flex;
+    background-color: white;
+
+    flex-direction: row;
+}
+
+.flex-container > div{
+    background-color: purple;
+    width: 100px;
+    margin: 10px;
+    line-height: 75px;
+    font-family: arial;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
