@@ -3,6 +3,9 @@
     background-color: white;
 
     flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: stretch;
 }
 
 .flex-container > div{
